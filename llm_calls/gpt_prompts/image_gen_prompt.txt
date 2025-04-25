@@ -1,0 +1,12 @@
+As an expert artist, write a detailed prompt to generate a accurate depiction of the following topic along with information in {image_style} style.
+
+Topic:
+{topic}
+
+Ensure the response strictly follows this JSON format:
+{{
+  "image_prompt": "Image prompt between 50-100 words"
+}}
+
+Instruction:
+The output must be strictly in JSON format with no additional text.

@@ -1,0 +1,12 @@
+Summarize the following article/text content by preserving important information, so that a person can be aware of the whole context just by reading the summary.
+
+Article/Text content:
+{article}
+
+Ensure the response strictly follows this JSON format:
+{{
+  "summary": "Text summary between 50-100 words"
+}}
+
+Instruction:
+Do not assume, infer, or fabricate information beyond what is explicitly stated in the article. The output must be strictly in JSON format with no additional text.
