@@ -1,5 +1,6 @@
 import cv2
 import numpy
+import os
 
 from img_gen_jobs import generate_ai_img
 from llm_jobs import analyse_content, generate_image_prompt
@@ -25,7 +26,10 @@ def read_image(img_path: str) -> numpy.ndarray | None:
         print("\n\nImage Path:")
         print(img_path)
 
-        img = cv2.imread(img_path)
+        if os.path.exists(img_path):
+            img = cv2.imread(img_path)
+        else:
+            print("Image doesn't exist")
     except Exception as err:
         print(f"\n\nERROR: {type(err)}: {err}")
     finally:

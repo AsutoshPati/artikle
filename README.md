@@ -257,19 +257,19 @@ Diffusion Options:
 **By ChatGPT**
 <div align="center">
   <img src="./sample_gallery/news_cartoon_chatgpt.png" width="250" alt="Cartoon Style News Article" />
-  <img src="./sample_gallery/ed_sub_cartoon.png" width="250" alt="Cartoon Style Educational Subject" />
+  <img src="./sample_gallery/ed_sub_cartoon_chatgpt.png" width="250" alt="Cartoon Style Educational Subject" />
   <img src="./sample_gallery/story_cartoon_chatgpt.png" width="250" alt="Cartoon Style Short Story" />
 </div>
 
 <div align="center">
   <img src="./sample_gallery/news_realistic_chatgpt.png" width="250" alt="Realistic Style News Article" />
-  <img src="./sample_gallery/ed_sub_realistic.png" width="250" alt="Realistic Style Educational Subject" />
+  <img src="./sample_gallery/ed_sub_realistic_chatgpt.png" width="250" alt="Realistic Style Educational Subject" />
   <img src="./sample_gallery/story_realistic_chatgpt.png" width="250" alt="Realistic Style Short Story" />
 </div>
 
 <div align="center">
   <img src="./sample_gallery/news_comic_chatgpt.png" width="250" alt="Comic Style News Article" />
-  <img src="./sample_gallery/ed_sub_comic_chatgpt.png" width="250" alt="Comic Style Educational Subject" />
+  <img src="./sample_gallery/ed_sub_comic_chatgpt.jpeg" width="250" alt="Comic Style Educational Subject" />
   <img src="./sample_gallery/story_comic_chatgpt.png" width="250" alt="Comic Style Short Story" />
 </div>
 
